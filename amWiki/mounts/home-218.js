@@ -1,1 +1,1 @@
-if(typeof AWPageMounts=='undefined'){AWPageMounts={}};AWPageMounts['home']={"name":"home-首页.md","path":"home-首页.md","content":"# 古今中外诗选\r\n\r\nby [YangQiju.com](https://www.yangqiju.com)\r\n","timestamp":1516699532241}
+if(typeof AWPageMounts=='undefined'){AWPageMounts={}};AWPageMounts['home']={"name":"home-首页.md","path":"home-首页.md","content":"# 古今中外诗选\r\n\r\nby [YangQiju.com](https://www.yangqiju.com)\r\n","timestamp":1516700861863}
